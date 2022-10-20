@@ -2,7 +2,7 @@
 
 <p id="description">Aplikacja napisana w celi zaliczenia przedmiotu "Projektowanie Obiektowe w Javie". Prosta aplikacja pozwalająca na przetrzymywanie w pamięci danych mieszkańców sprawdzająca prawidłowość numeru PESEL</p>
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>🛠️ Installation: </h2>
 
 <p>1. Uruchomienie aplikacji</p>
 
